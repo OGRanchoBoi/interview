@@ -14,7 +14,7 @@ Write T-SQL statements in the frame on the right of the page to answer each ques
 3. Write a script that returns each customer and the total amount of the products they purchased.  
 4. Filter question 3 for customers who spent over $50. 
 5. Write a script that returns only the last name of the customer, the product name, and the transaction times of transactions that took place between March 1st and March 10th.    Alphabatize the result. 
-6. Pick a customer, and update one registration associated to this customer to start at 12pm on July 4th, 2015 and end at 4pm on July 4th. 
+6. Update all Volleyball registrations to start at 12pm on July 4th, 2015 and end at 4pm on July 4th, 2015. 
 
 
 :::BONUS POINTS:::
