@@ -1,12 +1,14 @@
-interview
-=========
+Production Support Engineer Interview Homework
 
-You'll need a database to complete this assignment. MySQL is a good free option, but feel free to be creative.
+Setup Instructions
 
-Some suggestions:
-MAMP (Mac, Apache, MySql, PHP) - http://www.mamp.info/en/downloads/index.html
-WAMP (Windows ...) - http://www.wampserver.com/en/
+Open http://www.sqlfiddle.com/ in your browser. 
+In the top left corner of your window, change the query language to MS SQL SERVER 2014. 
+Open homerwork.sql and paste the sql script into the frame on the left of the page. 
+Click build schema. 
 
-For Linux users, you probably already have some of these components, but Apache, MySQL, PHP are all great options still. 
+Write T-SQL statements in the frame on the left of the page to answer each question below. The sql statements you write should execute without errors, and should be written as if they were going to be run in a production environment.  
 
+1. Write a script that returns a customer name and a product name for every transaction in the transactions table. 
+2.  
 
