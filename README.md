@@ -18,6 +18,10 @@ Write T-SQL statements in the frame on the right of the page to answer each ques
 7. Write a script to return all customers who have not made a transaction. 
 8. George Bush registered for the Jetski class, but is not showing up on the roster for the Jetski class. Why? 
 
+Troubleshooting
+
+1. The monitoring service at daxko contains a job that queries a database to gather information pertaining to the production support team’s database activity. Email.pdf is sent every Monday morning, and contains information for the last 7 days. In testing, an engineer noticed that the summary portion of the email reported incorrect values.  In essence, the summary portion of the email did not equal the sum of the appropriate detail sections at the bottom of the email.  Attached is the ruby class that generates this email.  Debug this file and suggest changes that would resolve this bug. The issue is contained in the semantics of this individual class – you do not need the code of the class this class extends, info about the database, or info about the connection to that database. 
+
 
 :::BONUS POINTS:::
 
