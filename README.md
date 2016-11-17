@@ -1,4 +1,5 @@
 Jr. TechOps Production Engineer Interview Homework
+
 Note: this is for the Jr. position. The full TechOps Production Engineer assignment is below this one. 
 
 Setup Instructions
@@ -9,6 +10,7 @@ Open homerwork.sql and paste the sql script into the frame on the left of the pa
 Click build schema. 
 
 SQL Test
+
 Write T-SQL statements in the frame on the right of the page to answer each question below. 
 The sql statements you write should execute without errors, and should be written as if they were going to be run in a production environment. 
 You can use any resources you would like to answer these questions, excluding talking to other human-beings in any form or fashion. 
