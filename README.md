@@ -24,6 +24,9 @@ You can use any resources you would like to answer these questions, excluding ta
 6. Write a script to return all customers who have not made a transaction. 
 7. George Bush registered for the Jetski class, but is not showing up on the roster for the Jetski class. Why? 
 
+
+:::BONUS POINTS:::
+
 Code Troubleshooting
 
 The monitoring service at daxko contains a job that queries a database to gather information pertaining to the production support team’s 
@@ -35,8 +38,7 @@ Debug this file and suggest changes that would resolve this bug.
 The issue is contained in the semantics of this individual class – you do not need the code of the class this class extends, 
 info about the database, or info about the connection to that database. 
 
-
-:::BONUS POINTS:::
+Write a basic application
 
 Answering this question is not required, but would be impressive. This can be written in any language, the quality of your work is more important than the language you use.
 
