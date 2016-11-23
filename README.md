@@ -2,7 +2,7 @@
 
 Note: this is for the Jr. position. The full TechOps Production Engineer assignment is below this one. 
 
-## Setup Instructions
+### Setup Instructions
 
 Pull down this repo to your local machine.
 
@@ -27,14 +27,14 @@ You can use any resources you would like to answer these questions, excluding ta
 7. George Bush registered for the Jetski class, but is not showing up on the roster for the Jetski class. Why? 
 
 
-### :::BONUS POINTS:::
+### BONUS POINTS
 
 Answering these questions is not required but it would be impressive. May the odds be ever in your favor. 
 
 Store SQL scripts you used to answer the above in a file and commit it back to this repo in a folder labeled as follows: yourname_interview_homework
 (Tip: you may use any resource at your disposal if you are unfamilar with how to make a commit to a git repo)
 
-## sub-heading Code Troubleshooting
+### Code Troubleshooting
 
 The monitoring service at daxko contains a job that queries a database to gather information pertaining to the production support team’s 
 database activity. Email.pdf is sent every Monday morning, and contains information for the last 7 days. 
