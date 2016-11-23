@@ -1,6 +1,6 @@
 #  Jr. TechOps Support Engineer Interview Homework
 
-Note: this is for the Jr. position. The full TechOps Production Engineer assignment is below this one. 
+Note: this is for the Jr. position. The full TechOps Support Engineer assignment is below this one. 
 
 ### Setup Instructions
 
