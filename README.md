@@ -4,6 +4,8 @@ Note: this is for the Jr. position. The full TechOps Production Engineer assignm
 
 Setup Instructions
 
+Pull down this repo to your local machine.
+
 Open http://www.sqlfiddle.com/ in your browser. 
 In the top left corner of your window, change the query language to MS SQL SERVER 2014. 
 Open homerwork.sql and paste the sql script into the frame on the left of the page. 
@@ -26,6 +28,9 @@ You can use any resources you would like to answer these questions, excluding ta
 
 
 :::BONUS POINTS:::
+
+Store SQL scripts you used to answer the above in a file and commit it back to this repo in a folder labeled as follows: yourname_interview_homework
+(Tip: you may use any resource at your disposal if you are unfamilar with how to make a commit to a git repo)
 
 Code Troubleshooting
 
