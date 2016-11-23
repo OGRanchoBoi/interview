@@ -1,8 +1,8 @@
-Jr. TechOps Support Engineer Interview Homework
+#  Jr. TechOps Support Engineer Interview Homework
 
 Note: this is for the Jr. position. The full TechOps Production Engineer assignment is below this one. 
 
-Setup Instructions
+## Setup Instructions
 
 Pull down this repo to your local machine.
 
@@ -11,7 +11,7 @@ In the top left corner of your window, change the query language to MS SQL SERVE
 Open homerwork.sql and paste the sql script into the frame on the left of the page. 
 Click build schema. 
 
-SQL Test
+### SQL Test
 
 Write T-SQL statements in the frame on the right of the page to answer each question below. 
 The sql statements you write should execute without errors, and should be written as if they were going to be run in a production environment. 
@@ -27,14 +27,14 @@ You can use any resources you would like to answer these questions, excluding ta
 7. George Bush registered for the Jetski class, but is not showing up on the roster for the Jetski class. Why? 
 
 
-:::BONUS POINTS:::
+### :::BONUS POINTS:::
 
 Answering these questions is not required but it would be impressive. May the odds be ever in your favor. 
 
 Store SQL scripts you used to answer the above in a file and commit it back to this repo in a folder labeled as follows: yourname_interview_homework
 (Tip: you may use any resource at your disposal if you are unfamilar with how to make a commit to a git repo)
 
-Code Troubleshooting
+## sub-heading Code Troubleshooting
 
 The monitoring service at daxko contains a job that queries a database to gather information pertaining to the production support team’s 
 database activity. Email.pdf is sent every Monday morning, and contains information for the last 7 days. 
@@ -51,10 +51,10 @@ ________________________________________________________________________________
 
 
 
-TechOps Support Engineer Interview Homework
+# TechOps Support Engineer Interview Homework
 Note: This assignment is NOT for the Jr. TechOps Engineer position.
 
-Setup Instructions
+## Setup Instructions
 
 Pull down this repo to your local machine.
 
@@ -77,7 +77,7 @@ Write T-SQL statements in the frame on the right of the page to answer each ques
 Store SQL scripts you used to answer the above in a file and commit it back to this repo in a folder labeled as follows: yourname_interview_homework
 (Tip: you may use any resource at your disposal if you are unfamilar with how to make a commit to a git repo)
 
-Code Troubleshooting
+### Code Troubleshooting
 
 The monitoring service at daxko contains a job that queries a database to gather information pertaining to the production support team’s 
 database activity. Email.pdf is sent every Monday morning, and contains information for the last 7 days. 
@@ -88,7 +88,7 @@ Debug this file and suggest changes that would resolve this bug.
 The issue is contained in the semantics of this individual class – you do not need the code of the class this class extends, 
 info about the database, or info about the connection to that database. 
 
-:::BONUS POINTS:::
+### :::BONUS POINTS:::
 
 Answering this question is not necessary, but would be impressive. This can be written in any language, the quality of your work is more important than the language you use.
 
