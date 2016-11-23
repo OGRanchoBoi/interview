@@ -1,4 +1,4 @@
-Jr. TechOps Production Engineer Interview Homework
+Jr. TechOps Support Engineer Interview Homework
 
 Note: this is for the Jr. position. The full TechOps Production Engineer assignment is below this one. 
 
@@ -43,21 +43,18 @@ Debug this file and suggest changes that would resolve this bug.
 The issue is contained in the semantics of this individual class – you do not need the code of the class this class extends, 
 info about the database, or info about the connection to that database. 
 
-Write a basic application
-
-Answering this question is not required, but would be impressive. This can be written in any language, the quality of your work is more important than the language you use.
-
-1. Write a script that takes in a command line parameter and opens a browser to the Amazon search page for the parameter input. 
 
 __________________________________________________________________________________________________________________________________________
 
 
 
 
-TechOps Production Engineer Interview Homework
+TechOps Support Engineer Interview Homework
 Note: This assignment is NOT for the Jr. TechOps Engineer position.
 
 Setup Instructions
+
+Pull down this repo to your local machine.
 
 Open http://www.sqlfiddle.com/ in your browser. 
 In the top left corner of your window, change the query language to MS SQL SERVER 2014. 
@@ -75,10 +72,19 @@ Write T-SQL statements in the frame on the right of the page to answer each ques
 7. Write a script to return all customers who have not made a transaction. 
 8. George Bush registered for the Jetski class, but is not showing up on the roster for the Jetski class. Why? 
 
-Troubleshooting
+Store SQL scripts you used to answer the above in a file and commit it back to this repo in a folder labeled as follows: yourname_interview_homework
+(Tip: you may use any resource at your disposal if you are unfamilar with how to make a commit to a git repo)
 
-1. The monitoring service at daxko contains a job that queries a database to gather information pertaining to the production support team’s database activity. Email.pdf is sent every Monday morning, and contains information for the last 7 days. In testing, an engineer noticed that the summary portion of the email reported incorrect values.  In essence, the summary portion of the email did not equal the sum of the appropriate detail sections at the bottom of the email.  Attached is the ruby class that generates this email.  Debug this file and suggest changes that would resolve this bug. The issue is contained in the semantics of this individual class – you do not need the code of the class this class extends, info about the database, or info about the connection to that database. 
+Code Troubleshooting
 
+The monitoring service at daxko contains a job that queries a database to gather information pertaining to the production support team’s 
+database activity. Email.pdf is sent every Monday morning, and contains information for the last 7 days. 
+In testing, an engineer noticed that the summary portion of the email reported incorrect values.  
+In essence, the summary portion of the email did not equal the sum of the appropriate detail sections at the bottom of the email.  
+Attached is the ruby class that generates this email.  
+Debug this file and suggest changes that would resolve this bug. 
+The issue is contained in the semantics of this individual class – you do not need the code of the class this class extends, 
+info about the database, or info about the connection to that database. 
 
 :::BONUS POINTS:::
 
