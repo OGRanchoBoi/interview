@@ -28,6 +28,7 @@ You can use any resources you would like to answer these questions, excluding ta
 
 
 :::BONUS POINTS:::
+Answering these questions is not required but it would be impressive. May the odds be ever in your favor. 
 
 Store SQL scripts you used to answer the above in a file and commit it back to this repo in a folder labeled as follows: yourname_interview_homework
 (Tip: you may use any resource at your disposal if you are unfamilar with how to make a commit to a git repo)
