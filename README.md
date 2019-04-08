@@ -1,4 +1,4 @@
-#  Jr. TechOps Support Engineer Interview Homework
+#  Jr. Technical Support Engineer Interview Homework
 
 Note: this is for the Jr. position. The full TechOps Support Engineer assignment is below this one. 
 
@@ -51,8 +51,8 @@ ________________________________________________________________________________
 
 
 
-# TechOps Support Engineer Interview Homework
-Note: This assignment is NOT for the Jr. TechOps Engineer position.
+# Technical Support Engineer Interview Homework
+Note: This assignment is NOT for the Jr. Technical Support Engineer position.
 
 ## Setup Instructions
 
